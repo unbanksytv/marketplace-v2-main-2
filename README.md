@@ -1,6 +1,6 @@
 <h3 align="center">Odyssey MVP V2 [BETA]</h3>
   <p align="center">
-An open source NFT marketplace built on Reservoir, Thirdweb SDK and Manifold Creator Contracts.
+An open source NFT marketplace built on Reservoir, Thirdweb SDK and Manifold Creator Contracts. Reservoir is primarily an API platform. Yes, this repo is our MVP NFT marketplace, but think of it more like a reference marketplace. Designed to show what's possible, and to be forked to build your own.
 
 <h3>🄶🄾🄾🄳 🅅🄸🄱🄴🅂 🄾🄷🄼🄻🅈</h3>
 
